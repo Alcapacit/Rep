@@ -8,4 +8,4 @@ This division conducts investigations into corporations, movements and governmen
 
 Alcapacit Service For Open Technology Systems or ASOTS
 
-This division conducts developments of new public standards & protocols in different industries.
+This division conducts developments of new public standards & protocols in different industries as well as other types of open source softwares.
